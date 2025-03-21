@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\GestionPresence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|c:\\users\\pc\\gestionpresence\\gestionpresence\\rapportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\rapportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\rapportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\rapportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\emargementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\emargementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\GestionPresence\\packages\\EPPlus.4.5.3.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.4.5.3.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\emargementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\emargementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\packages\\EPPlus.7.7.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\coursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\coursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\accueilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\accueilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\listesprofesseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\listesprofesseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|C:\\Users\\pc\\GestionPresence\\gestionpresence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8464AB9-6909-4215-84BB-612C51ADBC6F}|GestionPresence\\GestionPresence.csproj|solutionrelative:gestionpresence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\packages\\EPPlus.4.5.3.3\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.4.5.3.3\\readme.txt",
+              "ToolTip": "C:\\Users\\pc\\GestionPresence\\packages\\EPPlus.4.5.3.3\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.4.5.3.3\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-21T17:56:36.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmargementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\EmargementForm.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\EmargementForm.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\EmargementForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\EmargementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:07:46.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RapportForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\RapportForm.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\RapportForm.cs",
+              "ToolTip": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\RapportForm.cs",
+              "RelativeToolTip": "GestionPresence\\RapportForm.cs",
+              "ViewState": "AgIAADABAACA8f///78vwDIBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:30:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\CoursForm.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\CoursForm.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\CoursForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\CoursForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:05:37.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RapportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\RapportForm.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\RapportForm.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\RapportForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\RapportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:34:13.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmargementForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\EmargementForm.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\EmargementForm.cs",
+              "ToolTip": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\EmargementForm.cs",
+              "RelativeToolTip": "GestionPresence\\EmargementForm.cs",
+              "ViewState": "AgIAAFMAAACAlJmZmVkgwG0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:55:10.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\packages\\EPPlus.7.7.0\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\packages\\EPPlus.7.7.0\\readme.txt",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\packages\\EPPlus.7.7.0\\readme.txt",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\packages\\EPPlus.7.7.0\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-19T19:25:57.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListesProfesseurs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ListesProfesseurs.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\ListesProfesseurs.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\ListesProfesseurs.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\ListesProfesseurs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:25:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccueilForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\AccueilForm.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\AccueilForm.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\AccueilForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\AccueilForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:42:25.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ForgotPassword.cs",
+              "RelativeToolTip": "GestionPresence\\ForgotPassword.cs",
+              "ViewState": "AgIAAB8AAABwZmZmZmYrwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:29:23.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:22:11.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForgotPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\ForgotPassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\latitude\\Desktop\\C#\\GestionPresence\\GestionPresence\\ForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:15:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\ChangePassword.cs",
+              "RelativeToolTip": "GestionPresence\\ChangePassword.cs",
+              "ViewState": "AgIAABwAAACAMTMzMzMRwGQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:56:25.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\Program.cs",
+              "RelativeDocumentMoniker": "GestionPresence\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\GestionPresence\\GestionPresence\\Program.cs",
+              "RelativeToolTip": "GestionPresence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:28:07.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
