@@ -1,0 +1,40 @@
+name: CI/CD Gestion Présences Professeurs
+
+on:
+  push:
+    branches:
+      - ly_hassane_Emargement  # Change avec ta branche de déploiement
+  pull_request:
+    branches:
+      - ly_hassane_Emargement
+
+jobs:
+  build:
+    runs-on: windows-latest  # Windows car c'est une app WinForms
+
+    steps:
+    - name: 🔹 Récupération du code
+      uses: actions/checkout@v3
+
+    - name: 🔹 Installation du SDK .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '7.0.x'  # Mets la version correcte de ton projet
+
+    - name: 🔹 Restauration des dépendances
+      run: dotnet restore
+
+    - name: 🔹 Compilation du projet
+      run: dotnet build --configuration Release --no-restore
+
+    - name: 🔹 Exécution des tests
+      run: dotnet test --configuration Release --no-build --verbosity normal
+
+    - name: 🔹 Création de l’exécutable
+      run: dotnet publish -c Release -o out
+
+    - name: 🔹 Déploiement sur IIS
+      run: |
+        echo "Copie des fichiers vers le serveur IIS..."
+        robocopy out C:\inetpub\wwwroot\gestion_presence /E
+      shell: cmd
